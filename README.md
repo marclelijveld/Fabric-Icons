@@ -1,8 +1,8 @@
 # Fabric-Icons
 This repository includes a draw.io file to build architectural diagrams for anything Microsoft Fabric. 
-- [Blogpost related to this repository and explanation how to work with these icons.](https://data-marc.com/2023/07/10/build-architectural-diagrams-for-microsoft-fabric/)
-- [Origin of the icons, the official icons provided via Microsoft Learn.](https://learn.microsoft.com/en-us/fabric/get-started/icons). 
-- [Directly start building your diagrams and open the library via this link](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmarclelijveld%2FFabric-Icons%2Fmaster%2FDraw.io_Fabric-Icons.xml)
+- [Blogpost related to this repository and explanation how to work with these icons.](https://data-marc.com/2023/07/10/designing-architectural-diagrams-with-the-latest-microsoft-fabric-icons/)
+- [Origin of the icons, the official icons provided via Microsoft Learn.](https://learn.microsoft.com/en-us/fabric/get-started/icons)
+- [Directly start building your diagrams and open the library via this link.](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmarclelijveld%2FFabric-Icons%2Fmaster%2FDraw.io_Fabric-Icons.xml)
 - In case you want to add this library manually to your draw.io session or desktop application, you can use this link: https://raw.githubusercontent.com/marclelijveld/Fabric-Icons/main/Draw.io_Fabric-Icons.xml 
 
  **Note**
